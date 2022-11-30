@@ -1,0 +1,22 @@
+{
+  "name": "client",
+  "version": "0.0.0",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "@fortawesome/fontawesome-free": "^6.2.1",
+    "axios": "^1.2.0",
+    "bootstrap": "^4.6.2",
+    "jquery": "^3.6.1",
+    "popper.js": "^1.16.1",
+    "vue": "^3.2.41",
+    "vue-router": "^4.1.6"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^3.1.2",
+    "vite": "^3.1.8"
+  }
+}

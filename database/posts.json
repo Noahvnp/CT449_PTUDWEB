@@ -1,0 +1,71 @@
+[{
+  "_id": {
+    "$oid": "6387725710cc1db588129a89"
+  },
+  "title": "Nhật Bản xem xét mua 500 tên lửa hành trình Tomahawk của Mỹ",
+  "category": "Thế giới",
+  "content": "Nguồn tin cho biết, động thái trên sẽ giúp Nhật Bản nhanh chóng tăng cường khả năng răn đe trước khi có thể bắt đầu vận hành “tên lửa dự phòng” tự chế tạo trong nước.  Dự kiến, việc mua bán ​​sẽ được cụ thể hoá khi chính phủ của Thủ tướng Fumio Kishida cập nhật Chiến lược An ninh Quốc gia và hướng dẫn chính sách an ninh dài hạn vào cuối năm nay.",
+  "image": "Ten-lua-Tomahawk-tomahawk.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669821015196"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "638775f7d0699948ef01d56e"
+  },
+  "title": "1/4 số thí sinh đỗ đại học chọn ngành Kinh doanh và Quản lý",
+  "category": "Giáo dục",
+  "content": "Trong 467.400 thí sinh trúng tuyển và nhập học năm nay, 120.000 (tương đương 26%) học Kinh doanh và Quản lý - đông nhất trong hơn 20 lĩnh vực.  Theo Báo cáo về tuyển sinh và đào tạo năm 2022 được Bộ Giáo dục và Đào tạo công bố hôm nay, chỉ tiêu tuyển sinh đại học và cao đẳng (ngành Giáo dục mầm non) là gần 576.000. Đến nay, hơn 467.400 thí sinh trúng tuyển đã nhập học, đạt tỷ lệ 81,17%.  Trong số này, ngành Kinh doanh và Quản lý đông thí sinh nhất với 26%, tương đương hơn 120.000 em nhập học. Kế đó, Máy tính và Công nghệ thông tin 13%, Công nghệ kỹ thuật và Nhân văn, mỗi ngành 9%; ngành Sức khỏe, Khoa học xã hội và hành vi chiếm 6% số thí sinh nhập học; ngành Khoa học giáo dục và Đào tạo giáo viên 5%, các lĩnh vực còn lại 1-4%",
+  "image": "CG2A0972-1657100093-5746-1669795190.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669821943275"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63877a05e89f075d223ab49a"
+  },
+  "title": "Argentina - Ba Lan: Khi Messi và Lewandowski đọ tài",
+  "category": "Thể thao",
+  "content": "Trước trận Saudi Arabia ở lượt hai hôm 26/11, Lewandowski đứng đầu ở cả thống kê ghi bàn (176 bàn) lẫn số lần ra sân (135 trận) trong lịch sử Ba Lan. Nhưng không bàn nào trong số đó được thực hiện tại World Cup. Thậm chí, ở trận ra quân hoà Mexico, anh còn đá hỏng một quả phạt đền.  Phải đến trận đấu thứ 136, tiền đạo 34 mới giải được \"lời nguyền\", khi ghi bàn ấn định chiến thắng 2-0. Anh đã bật khóc.",
+  "image": "world-cup-preview-lead-pic-Pol-4879-6402-1669801397.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669822981909"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63877bc3e89f075d223ab4ad"
+  },
+  "title": "Australia 0-0 Đan Mạch (hiệp 1): Eriksen dứt điểm",
+  "category": "Thể Thao",
+  "content": "Đội hình thi đấu:  Australia (4-4-2): Ryan - Degenek, Souttar, Rowles, Behich - Leckie, Irvine, Mooy, Goodwin - Duke, McGree  Dự bị: Atkinson, Karacic, Tilio, Wright, Maclaren, Hrustic, Mabil, Redmayne, Devlin, Vukovic, Deng, Kuol, King, Cummings, Baccus  Đan Mạch (4-2-3-1): Schmeichel - Maehle, Christensen, Andersen, Kristensen - Jensen, Höjbjerg - Lindstrom, Eriksen, Skov Olsen - Braithwaite  Dự bị: Nelsson, Kjaer, Dolberg, Damsgaard, Norgaard, Oliver Christensen, Stryger Larsen, Wass, Wind, Poulsen, Cornelius, Ronnow, Skov, Bah  Trọng tài: Mustapha Ghorbal (Algeria)",
+  "image": "ryan-jpeg-1669822545-5416-1669822556.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669823427733"
+    }
+  },
+  "__v": 0
+},{
+  "_id": {
+    "$oid": "63878d06e89f075d223ab4cd"
+  },
+  "title": "Công Lý, Xuân Bắc tham gia Táo Quân; Tân Hoa hậu Trái đất mặc thiết kế của Đức Vincine",
+  "category": "Showbiz",
+  "content": "TTO - Tân Hoa hậu Trái đất mặc thiết kế của Đức Vincine; Công Lý, Xuân Bắc tham gia Táo Quân; 4 thí sinh The Voice 2012 gặp lại lần đầu sau 10 năm; Mỹ Anh góp giọng trong đêm nhạc giáng sinh... là những thông tin được quan tâm ngày 30-11.",
+  "image": "th.jpg",
+  "created": {
+    "$date": {
+      "$numberLong": "1669827846335"
+    }
+  },
+  "__v": 0
+}]

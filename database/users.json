@@ -1,0 +1,13 @@
+[{
+  "_id": {
+    "$oid": "638751b49f1c39ae1b340178"
+  },
+  "username": "Van Nam",
+  "password": "123456",
+  "created": {
+    "$date": {
+      "$numberLong": "1669812660764"
+    }
+  },
+  "__v": 0
+}]
